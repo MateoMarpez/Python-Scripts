@@ -1,0 +1,2 @@
+Script de Python que utiliza librerías como Pandas, Numpy, y Matplot, para leer datos de una hoja Excel correspondiente a un electrocardiograma, y graficar e interpretar información de la misma.
+Este script fue realizado como proyecto final para el Curso Introductorio de Python, dictado por miembros del Instituto de Ingenieros Eléctricos y Electrónicos, pertenecientes al Instituto Tecnológico de Buenos Aires
